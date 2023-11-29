@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(161, 161, 140);
+}
+
+.breed-select {
+    display: flex;
+    margin: 30px auto;
+    min-width: 300px;
+    padding: 15px;
+    font-size: 20px;
+    color: #000000;
+}
+
+.loader {
+    font-size: 25px;
+    color: #000000;
+    margin: 30px auto;
+}
+
+.error {
+    font-size: 25px;
+    color: #ff3d00;
+    margin: 30px 30px;
+}
+
+.cat-info {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.js-cat-img {
+    width: 600px;
+    height: 100%;
+}
+
+.js-cat-description {
+    max-width: 600px;
+    margin: 0 auto;
+    color: #000000;
+}
