@@ -27,17 +27,17 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    max-width: 80%;
+    max-width: 90%;
     margin: 0 auto;
 }
 
 .js-cat-img {
-    width: 600px;
+    width: 400px;
     height: 100%;
 }
 
 .js-cat-description {
-    max-width: 600px;
+    max-width: 400px;
     margin: 0 auto;
     color: #000000;
 }
